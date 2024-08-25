@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "string": "c",
+        "stm32f4xx_hal_uart.h": "c",
+        "freertos.h": "c",
+        "uart_driver.h": "c",
+        "uart_app.h": "c",
+        "limits": "c",
+        "memory": "c",
+        "cstdio": "c",
+        "stdio.h": "c"
+    }
+
+}
+
+//"D:\\Program Files\\ARM_Compiler_5.06u7\\include", 
